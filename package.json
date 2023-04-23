@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/comp426-2022-spring/a01-carohamunc#readme",
   "dependencies": {
-    "browser-sync": "^2.27.7",
+    "browser-sync": "^2.29.1",
     "minimist": "^1.2.5"
   }
 }
